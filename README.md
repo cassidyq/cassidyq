@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=cassidyq&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/cassidyq/cassidyq?color=black&logo=github" />
+</p>
+
+
 <!--
 **cassidyq/cassidyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Cassidy's Github 👋
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=cassidyq&style=plastic&label=Views"><img>
